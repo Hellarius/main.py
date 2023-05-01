@@ -1,5 +1,5 @@
 # Selection sort in Python
-# time complexity O(n*n)
+# Time complexity O(n*n)
 # sorting by finding max_index
 def selection_sort(numbers):
     for i in range(len(numbers)-1, 0, -1):
